@@ -1,6 +1,8 @@
 # Hijra Date for Linux
 Display Hijra date for Linux in a file. Use it with Conky. These short tutorial will inform you how to use it with Conky.
 
+<img src="https://lh3.googleusercontent.com/-5eEMabke_Kc/VdGfG2Si4PI/AAAAAAAAGRY/yqdPcnqcCIY/s672-Ic42/hijra-date-linux.png" title="Preview of Hijra Date for Linux in Conky" align="center"></img>
+
 <h2>How to Use</h2>
 
 Step 1 : Install Conky <br />
