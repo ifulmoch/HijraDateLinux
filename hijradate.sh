@@ -5,7 +5,7 @@
 # Author Blog: http://vpswp.blogspot.com
 # Last Update : August 17, 2015
 # --------------------------------
-# This program create file .hijradatecurrent on your home directory which contain hijra date at this time.
+# This program create .hijradatecurrent file on your home directory which contain hijra date at this time.
 # It needs internet connection, otherwise you will get Offline message. You can use it with conky
 #
 # Change Line 18 by visiting base URL below to search for Country/City
